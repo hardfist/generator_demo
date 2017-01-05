@@ -21,5 +21,8 @@
     "babel": "^6.5.2",
     "babel-preset-es2015": "^6.18.0",
     "babel-preset-stage-0": "^6.16.0"
+  },
+  "dependencies": {
+    "sax": "^1.2.1"
   }
 }
